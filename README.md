@@ -58,3 +58,25 @@ Fowler's design stamina hypothesis results in this recommendation: Don't spend t
   1. Do a tab-key test of your website.
   2. Use a contrast checker (google it).
   3. Get a screen reader (like Chrome Vox, or use your operating system's).
+
+## Ryan Herr | @rrherr | "Banjo Grammar"
+
+### Takeaways
+- CFG = context free grammar is a set of simple rules!
+
+## Vicky Nguyen | wickyvinn | Fastly | "Show me your echolocation"
+
+Hard-code routing tables and do branched pings to probe network speed
+
+### Questions
+- How do you load balance the optimal routes so you don't DDOS them
+- How are routing tables updated when "hops" are added and removed?
+
+## Nabil Hassein | Formerly Khan Academy | "How are all of your relationships?"
+
+### Look into
+- Bret Victor: "What can a technologist do about climate change?"
+  - Critique: We must create options for **people**; policy makes got us into this mess and won't help us.
+- Grist Magazine: "Ice Apocalypse"
+- Assata Shakur: "Assata" autobiography
+- Nabil Hassein: "Against black inclusion in facial recognition"
