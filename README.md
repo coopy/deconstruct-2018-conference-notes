@@ -80,3 +80,31 @@ Hard-code routing tables and do branched pings to probe network speed
 - Grist Magazine: "Ice Apocalypse"
 - Assata Shakur: "Assata" autobiography
 - Nabil Hassein: "Against black inclusion in facial recognition"
+
+## Jumana Bahrainwala | @jumzb | "Scaling relational db migrations"
+
+### Questions
+- When you split your transactions up, how to you ensure a failed colunm add doesn't crash a later column write?
+- How do you load test your migrations?
+
+## Katrina Owen | @kytrinyx | Github | exercism.io | "Making Decisions"
+
+- Dr. Stephen Wiseman: Lucky people are more preceptive.
+- Dr. Share Frederick: Make opportunity costs explicit. Instead of "Don't buy"; "Spend $100 on something else".
+
+### Takeaways
+- Tactics for opening up from a narrow perspective
+  - Image that an option _isn't available_ to you
+  - Instead of brainstorming the solution, _Questionstorm_ the problem space
+  - Disagreements uncover information you didn't have. Assume rationality and as Questions until you understand their perspective.
+- Strategy is a plan for overcoming obstacles (You must identify what the obstacles are)
+  1. Identify Challenge and Opportunity
+  2. Come up with guiding policy - how to deal with challenges
+  3. Coherent action - define aligned steps
+- "Good strategy can be defined on the back of a napkin"
+
+### Questions
+- What are some questionstorming techniques?
+
+
+  
